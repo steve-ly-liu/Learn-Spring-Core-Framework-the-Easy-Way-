@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="sampleEnvironment" class="org.company.profilesample.SampleEnvironment">
+        <constructor-arg ref="environmentInterface"/>
+    </bean>
+
+    <beans profile="development">
+        <bean id="environmentInterface" class="org.company.profilesample.DevelopmentEnv"/>
+    </beans>
+    <beans profile="production, default">
+        <bean id="environmentInterface" class="org.company.profilesample.ProductionEnv"/>
+    </beans>
+</beans>

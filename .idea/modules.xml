@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learn-Spring-Core-Framework-the-Easy-Way-.iml" filepath="$PROJECT_DIR$/.idea/Learn-Spring-Core-Framework-the-Easy-Way-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodInjection/spring-proj/spring-proj.iml" filepath="$PROJECT_DIR$/MethodInjection/spring-proj/spring-proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-proj_AOP/spring-proj (1).iml" filepath="$PROJECT_DIR$/spring-proj_AOP/spring-proj (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonInSpring/spring-proj/spring-proj (2).iml" filepath="$PROJECT_DIR$/SingletonInSpring/spring-proj/spring-proj (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-proj_AOPConcept/spring-proj (3).iml" filepath="$PROJECT_DIR$/spring-proj_AOPConcept/spring-proj (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-proj_AOP with AspectJ/spring-proj (4).iml" filepath="$PROJECT_DIR$/spring-proj_AOP with AspectJ/spring-proj (4).iml" />
+    </modules>
+  </component>
+</project>

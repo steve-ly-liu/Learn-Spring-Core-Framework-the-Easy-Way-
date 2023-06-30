@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+
+	<bean id="secureStoreImpl"
+		class="org.apiimplementor.SecureStoreImpl">
+		<constructor-arg type="int" value="11011" />
+		<constructor-arg type="String" value="user1346" />
+		<constructor-arg type="String" value="MyPasswrod28%" />
+		<constructor-arg>
+			<list>
+				<value>124.55.233.12</value>
+				<value>125.23.41.212</value>
+			</list>
+		</constructor-arg>
+		<constructor-arg>
+			<map>
+				<entry key="cores" value="16" />
+				<entry key="ram" value="160GB" />
+				<entry key="disk" value="100TB" />
+			</map>
+		</constructor-arg>
+	</bean>
+
+	<bean id="manageAppData" class="org.company.ManageAppData">
+		<constructor-arg ref="secureStoreImpl" />
+	</bean>
+
+</beans>

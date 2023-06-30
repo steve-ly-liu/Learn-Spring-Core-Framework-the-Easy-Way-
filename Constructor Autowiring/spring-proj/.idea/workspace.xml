@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8f1b19e-3d1f-4805-ab59-25e4c441c5f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Learn-Spring-Core-Framework-the-Easy-Way-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/src/main/java/org/company/AnotherBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/src/main/java/org/company/OneMoreBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/src/main/java/org/company/SampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/org/company/AnotherBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/org/company/OneMoreBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/org/company/SampleBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../@Autowire Example/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/src/main/java/org/company/BPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/src/main/java/org/company/ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/org/company/BPP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/org/company/ServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeanPostProcessorExample/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/src/main/java/org/company/PrototypeDestory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/src/main/java/org/company/ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/org/company/PrototypeDestory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/org/company/ServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Call Destroy Method of Prototype Bean/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/company/AnotherBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/company/OneMoreBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/company/SampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/company/AnotherBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/company/OneMoreBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/company/SampleBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/src/main/java/org/company/ManageAppData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/org/company/ManageAppData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConstructorInjection/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/java/org/company/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/java/org/company/MyCustomBeanRegistrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/java/org/company/ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/java/org/company/ServerConfigEditorx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/org/company/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/org/company/MyCustomBeanRegistrar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/org/company/ServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/org/company/ServerConfigEditorx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorWithRegistry/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/src/main/java/org/company/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/src/main/java/org/company/ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/src/main/java/org/company/ServerConfigEditorx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/org/company/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/org/company/ServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/org/company/ServerConfigEditorx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomEditorsProperty/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/AnimalSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/MainLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/java/org/company/config/JavaConfig2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/src/main/resources/config2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/config2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/AnimalSound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/MainLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../End of chapter project/spring-proj/target/classes/org/company/config/JavaConfig2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/src/main/java/org/company/ServerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/src/main/java/org/company/ServerManagerFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/org/company/ServerManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/org/company/ServerManagerFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Beans/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/src/main/java/org/company/ServerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/org/company/ServerManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Factory Methods/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MethodInjection/spring-proj/spring-proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/DataSourceMySQLImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/DataSourcePostgresqlImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/config/JavaConfigDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/config/JavaConfigProd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/java/org/company/standardConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/resources/config-dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/resources/config-prod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/config-dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/config-prod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/DBManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/DataSourceMySQLImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/DataSourcePostgresqlImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/config/JavaConfigDev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/config/JavaConfigProd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProfilesExample/spring-proj/target/classes/org/company/standardConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/.settings/org.jboss.ide.eclipse.as.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/src/main/java/org/company/AnotherBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/src/main/java/org/company/SampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/org/company/AnotherBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/org/company/SampleBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prototype Scope Example/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/src/main/java/org/company/ManageAppData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/src/main/java/org/company/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/src/main/java/org/company/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/META-INF/maven/com.company/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/org/company/ManageAppData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/org/company/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SetterInjection/spring-proj/target/classes/org/company/config/JavaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SingletonInSpring/spring-proj/spring-proj (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/.idea/libraries/spring_proj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/java/com/example/ch3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/java/com/example/ch3/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/java/com/example/ch3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/java/com/example/ch3/Ch3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/java/com/example/ch3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/resources/Config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Ch3/src/test/java/com/example/ch3/Ch3ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/Start of chaptr project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/libraries/Maven__org_springframework_spring_aop_5_3_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/libraries/Maven__org_springframework_spring_beans_5_3_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/libraries/Maven__org_springframework_spring_context_5_3_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/libraries/Maven__org_springframework_spring_core_5_3_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/libraries/Maven__org_springframework_spring_expression_5_3_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/spring-proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/src/main/java/org/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/src/main/java/org/company/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/src/main/java/org/company/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/src/main/java/org/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/src/main/java/org/company/MainLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/target/classes/org/company/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/target/classes/org/company/Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/target/classes/org/company/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/target/classes/org/company/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Start of chaptr project/spring-proj/target/classes/org/company/MainLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-proj_AOP with AspectJ/spring-proj (4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-proj_AOP/spring-proj (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-proj_AOPConcept/spring-proj (3).iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NbVguRDh1PGYsHqjpasxxYZlAP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/steveliu/Projects/github/Learn-Spring-Core-Framework-the-Easy-Way-/ConstructorInjection/spring-proj",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8f1b19e-3d1f-4805-ab59-25e4c441c5f1" name="Changes" comment="" />
+      <created>1679932883306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679932883306</updated>
+      <workItem from="1679932885165" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
